@@ -14,7 +14,7 @@
         }
     </style>
     <div class="alert alert-primary alert-dismissible fade show" role="alert">
-        리스맨은 '크롬브라우저'에서 최적으로 작동합니다. 반드시 크롬브라우저에서 실행해주세요 ^__^ <a href="https://www.google.com/intl/ko/chrome/" class="alert-link" target="_blank">다운로드 바로가기</a>
+        리스맨은 '크롬브라우저'에서 작동합니다. 반드시 크롬브라우저에서 실행해주세요 ^__^ <a href="https://www.google.com/intl/ko/chrome/" class="alert-link" target="_blank">다운로드 바로가기</a>
         <button type="button" class="close" data-dismiss="alert" aria-label="Close">
             <span aria-hidden="true">&times;</span>
         </button>
@@ -26,7 +26,7 @@
     <div class="text-center container mt-5">
 
         <h1 class="h3 mb-3 font-weight-normal">임대관리프로그램 리스맨 접속을 환영합니다!</h1>
-        <p class="">크롬브라우저에서 최적으로 작동합니다. 반드시 크롬브라우저를 이용해주세요 ^__^</p>
+        <p class="">크롬브라우저에서 작동합니다. 반드시 크롬브라우저를 이용해주세요 ^__^</p>
         <!-- <p>회원가입후 30일 또는 20건 이하 계약은 쭉~~ 무료이용입니다. 부담없이 회원가입해주세요^__^ <a href="../use_guide/fare_guide.php"
                 class='badge badge-danger'>요금안내 바로가기</a></p> -->
         <div class="text-center container mt-5" style="width:360px;">
@@ -67,9 +67,12 @@
             </div>
         </div>
         <hr>
-        <p class="contact">1. 고객센터운영시간 : 평일 오전 10시~오후5시<br>
-            2. 카카오톡 문의 가능합니다. (친구찾기 : 리스맨 검색)<br>
-            3. 하단 고객센터 번호로 문자송신 가능합니다 (단문/장문 모두 가능). 문자메시지 또는 이메일을 보내주세요.</p>
+        <p class="contact text-left">
+            1. 하단 사업자번호로 사업자상태 확인하세요. <a href="https://teht.hometax.go.kr/websquare/websquare.html?w2xPath=/ui/ab/a/a/UTEABAAA13.xml" class="" target="_blank">(국세청사이트)</a><br>
+            2. 통신판매업정보 확인하세요. <a href="http://www.ftc.go.kr/bizCommPop.do?wrkr_no=7450601064" class="" target="_blank">(공정거래위원회사이트)</a><br>
+            3. 리스맨 상표권 확인하세요.(출원번호 4020170015461(출원일 2017.02.07)) <a href="http://www.kipris.or.kr/khome/main.jsp" class="" target="_blank">(특허정보넷 키프리스)</a><br>
+            4. 리스맨 기술특허 확인하세요 (임대사업자 관리 장치 및 그 방법(APPARATUS AND THE METHOD FOR MANAGING RENTAL OR LEASE), 특허등록번호 10-1878261-0000). <a href="http://www.kipris.or.kr/khome/main.jsp" class="" target="_blank">(특허정보넷 키프리스)</a>
+        </p>
     </div>
 
     <?php
