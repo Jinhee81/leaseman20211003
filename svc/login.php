@@ -20,7 +20,7 @@
         </button>
     </div>
     <div class="bg-dark text-center pt-3">
-        <a href="https://www.leaseman.co.kr"><img class="mb-4" src="inc/img/leaseman-1.png" alt="" width="" height=""></a>
+        <a href="https://www.leaseman.co.kr" target="_blank"><img class="mb-4" src="inc/img/leaseman-1.png" alt="" width="" height=""></a>
     </div>
 
     <div class="text-center container mt-5">
@@ -52,7 +52,7 @@
                     <a class="btn btn-sm btn-outline-success btn-block" href="password_find2.php" role="button">비밀번호찾기</a>
                 </div>
                 <div class="form-group col-md-4">
-                    <a class="btn btn-sm btn-outline-success btn-block" href="https://forms.gle/eUVDHCchmy37Qnuw8" role="button">문의하기</a>
+                    <a class="btn btn-sm btn-outline-success btn-block" href="https://forms.gle/D9kt2TEpdLnHaswJ9" role="button" target="_blank">문의하기</a>
                 </div>
                 <!-- <div class="form-group col-md-4">
                     <a class="btn btn-sm btn-outline-success btn-block" href="../membership/membership.php" role="button">회원가입하기</a>
@@ -62,7 +62,7 @@
             </div>
             <div class="form-row">
                 <div class="form-group col">
-                    <a class="btn btn-sm btn-outline-primary btn-block" href="https://drive.google.com/file/d/14kWOLZ8GSslaEzO44YIgtXr28QzvEAIj/view?usp=sharing" role="button">리스맨 화면소개 보기</a>
+                    <a class="btn btn-sm btn-outline-primary btn-block" href="https://drive.google.com/file/d/14kWOLZ8GSslaEzO44YIgtXr28QzvEAIj/view?usp=sharing" target="_blank" role="button">리스맨 화면소개 보기</a>
                 </div>
             </div>
         </div>
